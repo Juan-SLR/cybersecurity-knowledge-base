@@ -13,8 +13,6 @@ Welcome to the **Cybersecurity Knowledge Base**! This is an open-source project 
 - [Penetration Testing](./penetration-testing/)
 - [Incident Response](./incident-response/)
 - [Vulnerabilities](./vulnerabilities/)
-- [Resources](./resources/)
 
 ## License
 This project is licensed under the MIT License.
-
